@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+//adding sonething for local matchine
 class node{
     public:
     int data;
